@@ -1,0 +1,30 @@
+
+body {
+    height: 1000px;
+  background-image: url("https://www.barranquilla.gov.co/wp-content/uploads/2018/09/identificador-de-barranquilla-2.jpg");
+  background-repeat: no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+  background-size: cover;
+
+}
+.textbox{
+  background-color: skyblue;
+  border: 2px solid black;
+  padding: 15px;
+  text-align: center;
+  margin: 20px auto;
+  width: 400px;
+}
+
+#text{
+  font: bold 30px tahoma;
+  width: 100%;
+}
+
+#grafo1{
+  width: 800px;
+  height: 600px;
+  border: 1px solid lightgray;
+  margin-inline: auto;
+}

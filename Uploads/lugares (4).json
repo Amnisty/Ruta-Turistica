@@ -1,0 +1,28 @@
+{
+  "vectorV": {
+    "Buenavista": {},
+    "Castillo de Salgar": {},
+    "Lago del Cisne": {},
+    "Ventana del Mundo": {},
+    "Casa de la Cultura": {},
+    "Aleta del Tiburon": {},
+    "Estadio Metropolitano": {},
+    "Malecon del Rio": {},
+    "Estadio Romelio Martinez": {},
+    "Teatro Mira de las Rosas": {},
+    "Museo del Carnaval": {}
+  },
+  "matrizA": {
+    "Buenavista": { "Malecon del Rio": "6" },
+    "Castillo de Salgar": [],
+    "Lago del Cisne": [],
+    "Ventana del Mundo": [],
+    "Casa de la Cultura": [],
+    "Aleta del Tiburon": [],
+    "Estadio Metropolitano": [],
+    "Malecon del Rio": [],
+    "Estadio Romelio Martinez": [],
+    "Teatro Mira de las Rosas": [],
+    "Museo del Carnaval": []
+  }
+}
